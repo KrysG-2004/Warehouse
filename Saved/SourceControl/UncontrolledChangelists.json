@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jji/Documents/Unreal Projects/Warehouse/Content/StarterContent/Materials/M_Glass.uasset",
+				"/Users/jji/Documents/Unreal Projects/Warehouse/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/jji/Documents/Unreal Projects/Warehouse/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"/Users/jji/Documents/Unreal Projects/Warehouse/Content/StarterContent/Maps/Wallstest.umap",
+				"/Users/jji/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset",
+				"/Users/jji/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/SM_Barrel02.uasset",
+				"/Users/jji/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"/Users/jji/Documents/Unreal Projects/Warehouse/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset"
+			]
+		}
+	]
+}
